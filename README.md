@@ -5,6 +5,12 @@ Saya Riska Nurohmah [2109103] mengerjakan Tugas Praktikum 2 dalam mata kuliah De
 
 ## Desain
 
+Desain Database
+
+<img width="500" alt="desain" src="https://user-images.githubusercontent.com/119839421/231526802-af1f3c7f-784a-42d7-92aa-a499b0bf06f1.png">
+
+Program ini merupakan program list Drama Korea dan Screenwriter Drama Korea. Fitur yang terdapat pada program ini yaitu login, menampilkan, mengubah, menambah, dan menghapus data drama korea dan screenwriter nya. Data ditampilkan dengan menggunakan card (JPanel).
+
 ## Alur
 Sebelum dapat melihat, menambah, menghapus, dan mengupdate data list drama korea dan screenwriter maka user harus login terlebih dahulu dengan password dan username yang sudah disiapkan yaitu admin.
 
